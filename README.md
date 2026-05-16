@@ -18,3 +18,4 @@ The dashboard provides insights into sales and profit performance across differe
 
 ## 📸 Dashboard Preview
 (Add your dashboard screenshot here)
+![Dashboard](image.png)
